@@ -26,5 +26,5 @@ Currently this is just the html, css (design) of the website and marketing mater
 
 ### Additional Information (optional)
 The video is over 25MB and therefor I can not upload it directly to the github, but placed links above to view and download. 
-I am happy to make any changes to the video and QR code, if needed, should Sacramento County wish to use it
+I am happy to make any changes to the video and QR code, if needed, should Sacramento County wish to use it. Currently working on making it live to UnclaimedChecks.org for the presentation.
 
