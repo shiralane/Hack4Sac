@@ -7,7 +7,7 @@ This repository includes the two files that **must be included** in all project 
 UnclaimedChecks.org
 
 ### Project Description
-A simple way to find and retrieve money that is owed to you by the county.  Created a video for the county to use as they wish in their distribution channels to drive attention to the unclaimed checks of Sacramento County and an easy to use responsive web application that allows users to find and claim their money with just a few steps. 
+A simple way to find and retrieve money that is owed to you by the county, with a marketing video for the county to use as they wish in their distribution channels to drive attention to the unclaimed checks of Sacramento County.
 
 ### Project Video
 ###### View video - https://vimeopro.com/up/unclaimed-checks
